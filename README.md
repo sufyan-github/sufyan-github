@@ -60,7 +60,9 @@ I'm an aspiring **Mobile Application Developer** and **Web Developer** passionat
 - **GitHub**: [sufyan-github](https://github.com/sufyan-github)  
 
 ---
-
+!((https://github.com/sufyan-github/Tech_Social_Assets/blob/main/assets/FACEBOOK.svg))Facebook
+!() CSS  
+!() JavaScript  
 ## 🎯 **Other Interests**
 
 - **Gardening**: Nurturing green spaces, responsibility  
