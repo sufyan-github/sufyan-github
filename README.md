@@ -15,7 +15,7 @@ Learning: Responsive Web Design, API integration
 📚 What I’m Currently Working On
 Building a portfolio website to showcase my projects
 Practicing responsive design techniques for small and medium devices
-Improving my skills in backend development using NodeJS and ExpressJS
+Improving my skills in backend development using NodeJS and ExpressJS 
 📫 How to Reach Me
 Email: abusufyan.cse20@gmail.com
 LinkedIn: 
