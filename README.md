@@ -57,7 +57,8 @@ I'm an aspiring **Mobile Application Developer** and **Web Developer** passionat
 
 - **Email**: abusufyan.cse20@gmail.com  
 - **LinkedIn**: [Md Abu Sufyan](https://www.linkedin.com/in/md-abu-sufyan-2a14b91a6/)  
-- **GitHub**: [sufyan-github](https://github.com/sufyan-github)  
+- **GitHub**: [sufyan-github](https://github.com/sufyan-github)
+- **Facebook**: [Md Abu Sufyan](https://www.facebook.com/AbuSufyan.RUET)  
 
 ---
 
