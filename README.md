@@ -62,6 +62,37 @@ I'm an aspiring **Mobile Application Developer** and **Web Developer** passionat
 
 
 ---
+## Md Abu Sufyan 👨‍💻
+
+### Software Engineer | Mobile Developer | Web Developer
+
+[![Website](https://img.shields.io/badge/Website-MyPortfolio-blue?style=flat)](https://your-website-link)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Md_Abu_Sufyan-blue?style=flat)](https://www.linkedin.com/in/md-abu-sufyan)  
+[![Facebook](https://img.shields.io/badge/Facebook-Md_Abu_Sufyan-1877F2?style=flat)](https://www.facebook.com/AbuSufyan.RUET)
+
+---
+
+### 📊 GitHub Stats:
+![Md Abu Sufyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sufyan-github&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=github_dark)
+
+---
+
+### 💻 Love to Code:
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoWidth=40)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoWidth=40)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoWidth=40)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoWidth=40)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoWidth=40)
+
+---
+
+### 🔧 Favourite Tools:
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoWidth=40)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoWidth=40)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoWidth=40)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoWidth=40)
+
+---
 
 ## 📚 **What I’m Currently Working On**
 
