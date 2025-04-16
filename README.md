@@ -13,87 +13,52 @@ I'm an aspiring **Mobile Application Developer** and **Web Developer** passionat
 - 🎯 Goal: To become proficient in both **mobile** and **web development** and apply my knowledge in real-world applications  
 
 ---
-
-🛠️ Skills & Technologies
-Mobile Development
-Languages: Dart, Flutter
-
-Backend: Firebase, NodeJS
-
-State Management: Riverpod
-
-Tools: Git, GitHub
-
-Web Development
-Languages: HTML, CSS, JavaScript
-
-Backend: NodeJS, ExpressJS
-
-Databases: MySQL, Firebase
-
-Other Skills
-Data Analysis: Machine Learning, Data Preprocessing, Python
-
-Project Management: Team leadership, Time management, Risk assessment
-
----
-
-## 🛠️ Skills & Technologies
+  ## 🛠️ Skills & Technologies
 
 ### **Mobile Development**  
 - **Languages**:  
-  [![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoWidth=40)](https://dart.dev)  
-  [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoWidth=40)](https://flutter.dev)
+  ![Dart](tech-asset/tech/Dart.svg)  
+  ![Flutter](tech-asset/tech/Flutter.svg)
 
 - **Backend**:  
-  [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoWidth=40)](https://firebase.google.com)  
-  [![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoWidth=40)](https://nodejs.org)
+  ![NodeJS](tech-asset/tech/NodeJS.svg)  
+  ![Firebase](tech-asset/tech/Firebase.svg)
 
 - **State Management**:  
-  [![Riverpod](https://img.shields.io/badge/Riverpod-EC4E3A?style=flat&logo=flutter&logoWidth=40)](https://riverpod.dev)
+  ![Riverpod](tech-asset/tech/Riverpod.svg)
 
 - **Tools**:  
-  [![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoWidth=40)](https://git-scm.com)  
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoWidth=40)](https://github.com)
+  ![Git](tech-asset/tech/Git.svg)  
+  ![GitHub](tech-asset/tech/GitHub.svg)
 
 ---
 
 ### **Web Development**  
 - **Languages**:  
-  [![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoWidth=40)](https://developer.mozilla.org/en-US/docs/Web/HTML)  
-  [![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoWidth=40)](https://developer.mozilla.org/en-US/docs/Web/CSS)  
-  [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoWidth=40)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+  ![HTML](tech-asset/tech/HTML.svg)  
+  ![CSS](tech-asset/tech/CSS.svg)  
+  ![JavaScript](tech-asset/tech/JavaScript.svg)
 
 - **Backend**:  
-  [![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoWidth=40)](https://nodejs.org)  
-  [![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoWidth=40)](https://expressjs.com)
+  ![NodeJS](tech-asset/tech/NodeJS.svg)  
+  ![ExpressJS](tech-asset/tech/ExpressJS.svg)
 
 - **Databases**:  
-  [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoWidth=40)](https://www.mysql.com)  
-  [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoWidth=40)](https://firebase.google.com)
+  ![MySQL](tech-asset/tech/MySQL.svg)  
+  ![Firebase](tech-asset/tech/Firebase.svg)
 
 ---
 
 ### **Other Skills**  
 - **Data Analysis**:  
-  [![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat&logo=python&logoWidth=40)](https://en.wikipedia.org/wiki/Machine_learning)  
-  [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoWidth=40)](https://www.python.org)  
+  ![Machine Learning](tech-asset/tech/MachineLearning.svg)  
+  ![Python](tech-asset/tech/Python.svg)  
 
 - **Project Management**:  
-  [![Leadership](https://img.shields.io/badge/Leadership-4C9D5F?style=flat&logoWidth=40)](https://www.skillsyouneed.com/leadership.html)  
-  [![Time Management](https://img.shields.io/badge/Time_Management-2E93B4?style=flat&logoWidth=40)](https://en.wikipedia.org/wiki/Time_management)  
-  [![Risk Assessment](https://img.shields.io/badge/Risk_Assessment-FF6347?style=flat&logoWidth=40)](https://en.wikipedia.org/wiki/Risk_management)
+  ![Leadership](tech-asset/tech/Leadership.svg)  
+  ![Time Management](tech-asset/tech/TimeManagement.svg)  
+  ![Risk Assessment](tech-asset/tech/RiskAssessment.svg)
 
-
-### **Other Skills**  
-- **Data Analysis**:  
-  [![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat&logo=python)](https://en.wikipedia.org/wiki/Machine_learning)  
-  [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python)](https://www.python.org)  
-
-- **Project Management**:  
-  [![Team Leadership](https://img.shields.io/badge/Leadership-4C9D5F?style=flat)](https://www.skillsyouneed.com/leadership.html)  
-  [![Time Management](https://img.shields.io/badge/Time_Management-2E93B4?style=flat)](https://en.wikipedia.org/wiki/Time_management)  
-  [![Risk Assessment](https://img.shields.io/badge/Risk_Assessment-FF6347?style=flat)](https://en.wikipedia.org/wiki/Risk_management)
 
 
 ---
