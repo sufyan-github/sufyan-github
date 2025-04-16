@@ -17,7 +17,7 @@ I'm an aspiring **Mobile Application Developer** and **Web Developer** passionat
 
 ### **Mobile Development**  
 - **Languages**:  
-  ![Dart](tech-asset/tech/Dart.svg)  
+  ![Dart](Tech_Social_Asset/assets/tech/Dart.svg)  
   ![Flutter](tech-asset/tech/Flutter.svg)
 
 - **Backend**:  
