@@ -55,10 +55,11 @@ I'm an aspiring **Mobile Application Developer** and **Web Developer** passionat
 
 ## 💬 **Let's Connect!**
 
-- **Email**: abusufyan.cse20@gmail.com  
-- **LinkedIn**: [Md Abu Sufyan](https://www.linkedin.com/in/md-abu-sufyan-2a14b91a6/)  
-- **GitHub**: [sufyan-github](https://github.com/sufyan-github)
-- **Facebook**: [Md Abu Sufyan](https://www.facebook.com/AbuSufyan.RUET)  
+[![Email](https://img.shields.io/badge/Email-abusufyan.cse20@gmail.com-blue?style=flat&logo=gmail)](mailto:abusufyan.cse20@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Md_Abu_Sufyan-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/md-abu-sufyan-2a14b91a6/)  
+[![GitHub](https://img.shields.io/badge/GitHub-sufyan--github-black?style=flat&logo=github)](https://github.com/sufyan-github)  
+[![Facebook](https://img.shields.io/badge/Facebook-Md_Abu_Sufyan-1877F2?style=flat&logo=facebook)](https://www.facebook.com/AbuSufyan.RUET)
+
 
 ---
 
