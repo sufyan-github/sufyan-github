@@ -14,41 +14,76 @@ I'm an aspiring **Mobile Application Developer** and **Web Developer** passionat
 
 ---
 
+🛠️ Skills & Technologies
+Mobile Development
+Languages: Dart, Flutter
+
+Backend: Firebase, NodeJS
+
+State Management: Riverpod
+
+Tools: Git, GitHub
+
+Web Development
+Languages: HTML, CSS, JavaScript
+
+Backend: NodeJS, ExpressJS
+
+Databases: MySQL, Firebase
+
+Other Skills
+Data Analysis: Machine Learning, Data Preprocessing, Python
+
+Project Management: Team leadership, Time management, Risk assessment
+
+---
+
 ## 🛠️ Skills & Technologies
 
 ### **Mobile Development**  
 - **Languages**:  
-  [![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart)](https://dart.dev)  
-  [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter)](https://flutter.dev)
+  [![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoWidth=40)](https://dart.dev)  
+  [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoWidth=40)](https://flutter.dev)
 
 - **Backend**:  
-  [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase)](https://firebase.google.com)  
-  [![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js)](https://nodejs.org)
+  [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoWidth=40)](https://firebase.google.com)  
+  [![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoWidth=40)](https://nodejs.org)
 
 - **State Management**:  
-  [![Riverpod](https://img.shields.io/badge/Riverpod-EC4E3A?style=flat&logo=flutter)](https://riverpod.dev)
+  [![Riverpod](https://img.shields.io/badge/Riverpod-EC4E3A?style=flat&logo=flutter&logoWidth=40)](https://riverpod.dev)
 
 - **Tools**:  
-  [![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git)](https://git-scm.com)  
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)](https://github.com)
+  [![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoWidth=40)](https://git-scm.com)  
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoWidth=40)](https://github.com)
 
 ---
 
 ### **Web Development**  
 - **Languages**:  
-  [![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5)](https://developer.mozilla.org/en-US/docs/Web/HTML)  
-  [![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS)  
-  [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+  [![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoWidth=40)](https://developer.mozilla.org/en-US/docs/Web/HTML)  
+  [![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoWidth=40)](https://developer.mozilla.org/en-US/docs/Web/CSS)  
+  [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoWidth=40)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 - **Backend**:  
-  [![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js)](https://nodejs.org)  
-  [![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express)](https://expressjs.com)
+  [![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoWidth=40)](https://nodejs.org)  
+  [![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoWidth=40)](https://expressjs.com)
 
 - **Databases**:  
-  [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql)](https://www.mysql.com)  
-  [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase)](https://firebase.google.com)
+  [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoWidth=40)](https://www.mysql.com)  
+  [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoWidth=40)](https://firebase.google.com)
 
 ---
+
+### **Other Skills**  
+- **Data Analysis**:  
+  [![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat&logo=python&logoWidth=40)](https://en.wikipedia.org/wiki/Machine_learning)  
+  [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoWidth=40)](https://www.python.org)  
+
+- **Project Management**:  
+  [![Leadership](https://img.shields.io/badge/Leadership-4C9D5F?style=flat&logoWidth=40)](https://www.skillsyouneed.com/leadership.html)  
+  [![Time Management](https://img.shields.io/badge/Time_Management-2E93B4?style=flat&logoWidth=40)](https://en.wikipedia.org/wiki/Time_management)  
+  [![Risk Assessment](https://img.shields.io/badge/Risk_Assessment-FF6347?style=flat&logoWidth=40)](https://en.wikipedia.org/wiki/Risk_management)
+
 
 ### **Other Skills**  
 - **Data Analysis**:  
